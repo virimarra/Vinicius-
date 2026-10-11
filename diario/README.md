@@ -21,14 +21,16 @@ Quando quiser feedback, me diga: "coach, revisa a semana XX" — eu leio o diár
 - Esforço percebido (1–10):
 - Melhor coisa:
 - Erro principal visto no vídeo:
-- Dor/desconforto (onde, 0–10):
+- **Ombro esquerdo (0–10): antes __ / depois __ / dia seguinte __**
+- Outra dor/desconforto (onde, 0–10):
 
 ## Solo B — data:
 - Feito: ( ) completo ( ) parcial
 - Esforço percebido (1–10):
 - Melhor coisa:
 - Erro principal visto no vídeo:
-- Dor/desconforto:
+- **Ombro esquerdo (0–10): antes __ / depois __ / dia seguinte __**
+- Outra dor/desconforto:
 
 ## Recuperação
 - Sono médio (h):

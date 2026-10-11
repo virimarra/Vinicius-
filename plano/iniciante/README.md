@@ -52,7 +52,7 @@ Links completos e credenciais de cada fonte: [`docs/02-biblioteca.md`](../../doc
 
 | Bloco | Tempo | Conteúdo |
 |---|---|---|
-| A. Aquecimento | 10 min | 3 × 2 min de corda (ou corda imaginária/skipping) com 30 s de descanso + mobilidade (círculos de ombro, rotação de quadril, tornozelo, agachamento profundo, rotação torácica) |
+| A. Aquecimento | 10 min | 3 × 2 min de corda com 30 s de descanso + **protocolo de ombro (3 min, obrigatório — [07-ombro.md](../../fundamentos/07-ombro.md))** + mobilidade (quadril, tornozelo, agachamento profundo, rotação torácica) |
 | B. Técnica | 20 min | o tema da sessão, devagar, no espelho, com o checklist |
 | C. Shadowboxing | 15 min | rounds com tema (ver cada sessão) |
 | D. Força/condicionamento | 12 min | ver [`fundamentos/06-forca-e-condicionamento.md`](../../fundamentos/06-forca-e-condicionamento.md) |

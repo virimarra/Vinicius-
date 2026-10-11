@@ -25,7 +25,7 @@ Este documento define **como** vamos treinar. Ele vale mais que qualquer treino 
 
 | Bloco | Tempo | Objetivo |
 |---|---|---|
-| A. Aquecimento | 10 min | corda (ou corda imaginária/skipping), mobilidade de ombro/quadril/tornozelo |
+| A. Aquecimento | 10 min | corda, protocolo de ombro ([07-ombro.md](../fundamentos/07-ombro.md)), mobilidade de quadril/tornozelo |
 | B. Técnica guiada | 20 min | 1–2 fundamentos novos, em rounds curtos, devagar, no espelho |
 | C. Shadowboxing estruturado | 15 min | rounds de 2–3 min com tema obrigatório |
 | D. Força / condicionamento | 12 min | halteres e peso corporal, específico pro boxe |

@@ -6,7 +6,8 @@ Repositório de treinamento pessoal de boxe: método, fundamentos técnicos, pla
 
 ## Rotina atual
 - 2–3 aulas em grupo por semana (1 h)
-- 1–2 sessões solo por semana (1 h) — sem saco de pancada; com halteres, luvas, espelho/celular
+- 1–2 sessões solo por semana (1 h) — sem saco de pancada; com halteres, luvas, corda, espelho/celular
+- Base ortodoxa (destro) · ⚠️ ombro esquerdo sensível → [protocolo](fundamentos/07-ombro.md)
 - **Nível atual: Iniciante (12 semanas)**
 
 ## Comece por aqui
@@ -29,6 +30,9 @@ fundamentos/
   04-defesa.md
   05-combinacoes-e-shadowboxing.md
   06-forca-e-condicionamento.md
+  07-ombro.md                  # protocolo do ombro esquerdo (ombro do jab)
+atleta/
+  perfil.md                    # dados do atleta e pendências
 plano/
   iniciante/                   # README (calendário) + fase-1, fase-2, fase-3
 avaliacoes/

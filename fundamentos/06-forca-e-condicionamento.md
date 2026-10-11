@@ -25,7 +25,7 @@ Baseado nos princípios publicados pela **Boxing Science** (empresa britânica d
 | Potência | Salto vertical / salto em distância (sem carga) | **pouco volume, máxima intenção** |
 | Potência | Agachamento com salto (sem carga ou halter leve) | 3–5 repetições |
 | Empurrar | Flexão de braço (variações) | substitui supino |
-| Empurrar | Desenvolvimento com halteres (em pé) | ombro forte, não pesado demais |
+| Empurrar | Desenvolvimento com halteres (em pé) | ⚠️ ombro esquerdo: ver [07-ombro.md](07-ombro.md) — substituir por flexão inclinada até liberação |
 | Puxar | Remada unilateral com halter | equilíbrio ombro (boxeador empurra demais) |
 | Core | Prancha / prancha lateral | anti-extensão / anti-flexão lateral |
 | Core | Dead bug | coordenação, coluna neutra |
@@ -38,7 +38,7 @@ Baseado nos princípios publicados pela **Boxing Science** (empresa britânica d
 
 ## Progressão do bloco D no iniciante (12 min)
 - **Semanas 1–4 (aprender os movimentos):** circuito 2 voltas: goblet 10 · flexão 8–12 · remada 10/lado · prancha 30 s · isometria de pescoço 4×10 s.
-- **Semanas 5–8 (força):** 3 voltas: afundo reverso 8/lado · desenvolvimento 8 · remada 10/lado · dead bug 10 · farmer walk 40 m (ou 40 s).
+- **Semanas 5–8 (força):** 3 voltas: afundo reverso 8/lado · flexão (ou desenvolvimento unilateral leve **só se 0 dor** no ombro esquerdo) 8 · remada 10/lado · dead bug 10 · farmer walk 40 m (ou 40 s).
 - **Semanas 9–12 (potência + condicionamento):** 3 saltos verticais máximos + goblet 8 + flexão explosiva 6 (descanso 60 s) ×3, depois 2× (40 s burpee / 20 s descanso / 40 s mountain climber / 20 s descanso).
 
 ## Fora das sessões (opcional, se tiver tempo)

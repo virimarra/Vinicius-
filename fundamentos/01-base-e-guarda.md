@@ -1,11 +1,11 @@
 # 01 — Base (stance) e guarda
 
-> "A base é a fundação da casa. Se ela estiver errada, tudo que você construir em cima cai." — princípio repetido por Cus D'Amato, Teddy Atlas e praticamente todo treinador de elite.
+> Princípio de todo treinador de elite: a base é a fundação. Base errada = tudo que vem em cima (potência, defesa, footwork) sai errado.
 
 ## Base ortodoxa — checklist
 
 1. **Pés** na largura dos ombros (um pouco mais), pé esquerdo à frente.
-2. Linha imaginária: o **dedão do pé de trás** fica alinhado com o **calcanhar do pé da frente** (os pés NÃO ficam na mesma linha — nem como em trilho de trem nem como numa corda bamba).
+2. Linha imaginária: o **dedão do pé de trás** fica alinhado com o **calcanhar do pé da frente** (cada pé num "trilho", como trilhos de trem — nunca os dois na mesma linha, como numa corda bamba).
 3. Pé da frente apontando ~45° para dentro (para o adversário); pé de trás ~45°–90°.
 4. **Calcanhar de trás levantado** (2–3 cm). Peso na planta do pé, não no calcanhar.
 5. Peso: ~50/50 (estilo olímpico moderno) até 40/60 na perna de trás. Joelhos levemente flexionados — "molas carregadas", não agachado.
