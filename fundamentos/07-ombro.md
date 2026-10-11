@@ -21,7 +21,7 @@ Você é destro (base ortodoxa), então o **ombro esquerdo é o ombro do jab** �
 
 Anote no diário a nota de dor do ombro **antes e depois** de cada treino.
 
-## Protocolo diário (3 min no aquecimento — obrigatório)
+## Protocolo diário (~4 min no aquecimento — obrigatório; faça também antes das aulas, se der)
 Faça com o halter mais leve que tiver (0,5–2 kg) ou sem carga. Movimentos lentos e controlados, sem dor.
 
 | Exercício | Volume | Para quê |
@@ -29,6 +29,7 @@ Faça com o halter mais leve que tiver (0,5–2 kg) ou sem carga. Movimentos len
 | Rotação externa deitado de lado (cotovelo colado no corpo) | 2 × 12 cada braço | manguito rotador (rotadores externos) |
 | Y-T-W deitado de bruços (ou inclinado) | 1 × 8 de cada letra | estabilizadores da escápula (trapézio médio/inferior) |
 | Flexão escapular (prancha, só as escápulas se aproximam/afastam) | 1 × 12 | serrátil anterior — estabilidade da escápula |
+| Alongamento de peitoral menor (antebraço no batente da porta, gire o tronco para fora) | 2 × 20 s cada lado | o peitoral encurtado puxa o ombro para frente |
 | Círculos de braço pequenos → grandes | 20 s cada sentido | aquecimento articular |
 
 ## Ajustes técnicos para proteger o ombro
@@ -48,4 +49,6 @@ Faça com o halter mais leve que tiver (0,5–2 kg) ou sem carga. Movimentos len
 Avise o professor no primeiro dia: "meu ombro esquerdo é sensível". Bons treinadores ajustam o volume de manopla e de flexões, e ficam de olho no seu jab.
 
 ## Referências
-Ver a seção "Ombro" em [`docs/02-biblioteca.md`](../docs/02-biblioteca.md).
+- Boxing Science, [Protecting the boxer's shoulder](https://boxingscience.co.uk/protecting-the-boxers-shoulder/)
+- Estudo com boxeadores (2023): fortalecer serrátil anterior e trapézio médio e alongar o peitoral menor melhora o controle escapular e a força de rotação externa ([DOAJ](https://doaj.org/article/b5491de95544471bb1a7d49f9a12706f))
+- Mais em [`docs/02-biblioteca.md`](../docs/02-biblioteca.md#ombro-prevenção-de-lesão).

@@ -30,16 +30,16 @@ Regras de distribuição:
 
 ## Vídeos e leitura de cada semana (assistir ANTES do Solo A)
 
-| Semana | Vídeos (Tony Jeffries salvo indicação) | Leitura |
+| Semana | Vídeos (Tony Jeffries salvo indicação) · 🔁 = segunda fonte, assista também | Leitura |
 |---|---|---|
 | 0 (antes de começar) | [How to Shadow Box 101](https://www.youtube.com/watch?v=fWfsbL2ulj8) · [Basics of Boxing](https://www.youtube.com/watch?v=kKDHdsVN0b8) | `docs/00`, `fundamentos/01` |
-| 1 | [Your Boxing Stance is Wrong](https://www.youtube.com/watch?v=e2S6-gwR0es) · [#1 Footwork Drill](https://www.youtube.com/watch?v=v0y86288Wt0) · [Jab](https://www.youtube.com/watch?v=odM78vAS86M) | `fundamentos/02`, Dempsey cap. iniciais |
-| 2 | [Jab — Teddy Atlas](https://www.youtube.com/watch?v=geagJaTewsY) · [Jab — Freddie Roach](https://www.youtube.com/watch?v=HU8LxzWzTac) · [Cross](https://www.youtube.com/watch?v=sK-6Ujp3KYY) | `fundamentos/03` (1 e 2) |
+| 1 | [Your Boxing Stance is Wrong](https://www.youtube.com/watch?v=e2S6-gwR0es) · [#1 Footwork Drill](https://www.youtube.com/watch?v=v0y86288Wt0) · [Jab](https://www.youtube.com/watch?v=odM78vAS86M) · 🔁 [Roach — basics](https://www.youtube.com/watch?v=uUTWcGol3CY) · 🔁 [Roach — shadow & footwork](https://www.youtube.com/watch?v=15G47Yp1e1I) | `fundamentos/02`, Dempsey cap. iniciais |
+| 2 | [Jab — Teddy Atlas](https://www.youtube.com/watch?v=geagJaTewsY) · [Jab — Freddie Roach](https://www.youtube.com/watch?v=HU8LxzWzTac) · [Cross](https://www.youtube.com/watch?v=sK-6Ujp3KYY) · 🔁 [Lennox Lewis — jab](https://www.youtube.com/watch?v=3jbTmHRHhC8) · 🔁 [Roach — right hand](https://www.youtube.com/watch?v=j3YJyXe57_0) | `fundamentos/03` (1 e 2) |
 | 3 | [1-2](https://www.youtube.com/watch?v=vyTaKpylOcU) · [Pivot 101](https://www.youtube.com/watch?v=72M0E5LM92M) | — |
-| 4 | [Olympic Footwork Drills](https://www.youtube.com/watch?v=gvdWLS-Y-2M) · rever Shadow Box 101 | avaliação |
-| 5 | [Hook](https://www.youtube.com/watch?v=UFVDcNDnpoU) · [Best Way to Defend a Punch](https://www.youtube.com/watch?v=a07NnmSmJqU) | `fundamentos/03` (3–6), `04` |
-| 6 | [Uppercut](https://www.youtube.com/watch?v=eBxn21FtqPg) · [Lead Uppercut](https://www.youtube.com/watch?v=zl2bZwxM_ws) · [Jab to the Body](https://www.youtube.com/watch?v=Xy54UGeUDyM) · [Slip — Teddy Atlas](https://www.youtube.com/watch?v=FHEv5EF91CY) · [Bob and Weave](https://www.youtube.com/watch?v=L3IVZc711cM) | — |
-| 7 | [Defend Any Punch](https://www.youtube.com/watch?v=ReD58z0jFJM) · [Defense — Freddie Roach](https://www.youtube.com/watch?v=wOX3UHc_Pd0) | — |
+| 4 | [Olympic Footwork Drills](https://www.youtube.com/watch?v=gvdWLS-Y-2M) · rever Shadow Box 101 · 🔁 [Kenny Weldon vol. 1 (completo)](https://www.youtube.com/watch?v=vwkjHfR6VPs) | avaliação |
+| 5 | [Hook](https://www.youtube.com/watch?v=UFVDcNDnpoU) · 🔁 [Roach — left hook](https://www.youtube.com/watch?v=cHkUm_XMntM) · [Best Way to Defend a Punch](https://www.youtube.com/watch?v=a07NnmSmJqU) | `fundamentos/03` (3–6), `04` |
+| 6 | [Uppercut](https://www.youtube.com/watch?v=eBxn21FtqPg) · [Lead Uppercut](https://www.youtube.com/watch?v=zl2bZwxM_ws) · [Jab to the Body](https://www.youtube.com/watch?v=Xy54UGeUDyM) · 🔁 [Ricky Hatton — body shot](https://www.youtube.com/watch?v=xmdzcfwQApU) · 🔁 [Roach — uppercuts](https://www.youtube.com/watch?v=8uwaPQFraqg) · [Slip — Teddy Atlas](https://www.youtube.com/watch?v=FHEv5EF91CY) · [Bob and Weave](https://www.youtube.com/watch?v=L3IVZc711cM) | — |
+| 7 | [Defend Any Punch](https://www.youtube.com/watch?v=ReD58z0jFJM) · [Defense — Freddie Roach](https://www.youtube.com/watch?v=wOX3UHc_Pd0) · 🔁 [Roach — slip/under](https://www.youtube.com/watch?v=-Qdn-BjKGxo) · 🔁 [Atlas — catch and pitch](https://www.youtube.com/watch?v=ayTCI-SG_uc) | — |
 | 8 | [First Combinations](https://www.youtube.com/watch?v=9oN2RCx5peY) · [Combinations — Teddy Atlas](https://www.youtube.com/watch?v=jkDbe2ujzRw) | avaliação |
 | 9 | rever Shadow Box 101 · [Shift drill / ângulos](https://www.youtube.com/watch?v=inm9XaTwlRc) | `fundamentos/05`; luta: Lomachenko vs Rigondeaux |
 | 10 | luta: Chávez vs Rosario (pressão) e Whitaker vs Chávez (contra) | `docs/01` |
