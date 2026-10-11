@@ -19,11 +19,15 @@ Checklist:
 - Cabeça na mesma altura do começo ao fim (sem "galope").
 - Nunca cruze os pés. Nunca junte os pés.
 
+![Step-drag nas 4 direções](../img/step-drag.svg)
+
 ## Pivôs
 
 - **Pivô no pé da frente**: gire sobre a planta do pé esquerdo; o pé de trás desenha um arco de ~45–90°, e o corpo inteiro gira junto, mantendo a base intacta. Treine para os **dois sentidos**. Usado para mudar o ângulo após o jab/hook e sair da linha do adversário. (Veja o vídeo indicado na biblioteca e confirme com seu professor qual sentido ele quer que você priorize.)
 - **Pivô no pé de trás**: menos usado, para recuar o ângulo.
 - Objetivo: depois do pivô, você está de frente pro lado do adversário e ele não está de frente para você. (Lomachenko vive disso.)
+
+![Pivô no pé da frente](../img/pivo.svg)
 
 ## Progressão de footwork (iniciante)
 
@@ -39,7 +43,11 @@ Checklist:
 
 - **Fita crepe no chão**: marque um "X" ou uma escada. Sempre volte com os pés no mesmo lugar.
 - **Corda**: ritmo, pés leves, panturrilha.
-- **Bolinha de tênis**: drill do Lomachenko para reflexos (jogar/pegar com uma mão em base). Opcional.
+- **Bolinha de tênis pendurada num barbante**: alvo de precisão (Lomachenko treina socando uma bola de tênis). Opcional.
+
+![Drill da caixa](../img/caixa.svg) ![Drill do X](../img/x-drill.svg)
+
+![Cortar o ringue](../img/cortar-ringue.svg)
 
 ## Erros comuns
 

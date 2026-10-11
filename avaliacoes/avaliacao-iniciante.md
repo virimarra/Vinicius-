@@ -52,6 +52,7 @@ Copie a tabela para `diario/avaliacoes/AAAA-MM-DD.md` e preencha.
 | Teste | Sem. 0 | Sem. 4 | Sem. 8 | Sem. 12 |
 |---|---|---|---|---|
 | Flexões máximas (corretas) | | | | |
+| Rotação externa deitado (mesmo halter): reps ombro E / ombro D | / | / | / | / |
 | Prancha (s) | | | | |
 | Corda contínua sem errar (min) | | | | |
 | Salto em distância parado (cm) | | | | |

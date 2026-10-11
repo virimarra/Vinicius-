@@ -15,6 +15,10 @@ Numeração universal (usada em aulas no mundo todo — decore):
 ## Regra mecânica universal
 **O soco começa no chão.** Pé empurra → joelho/quadril giram → tronco gira → ombro → braço → punho. Braço sozinho = soco fraco e lento. O punho gira (palma para baixo) só no final, e o impacto é com os **dois primeiros nós dos dedos** (indicador e médio).
 
+![Cadeia cinética](../img/cadeia-cinetica.svg)
+
+![Trajetórias dos golpes](../img/trajetorias.svg)
+
 ---
 
 ## 1 — Jab

@@ -27,11 +27,15 @@
 - Contra adversário ortodoxo: **slip do jab** = cabeça para a sua **direita** (por fora do braço esquerdo dele); **slip do direto** = cabeça para a sua **esquerda** (por fora do braço direito dele). Aprenda os dois lados.
 - Olhos sempre no adversário. Não incline só o pescoço; use pernas e cintura.
 
+![Slip do jab e do direto](../img/slip.svg)
+
 ### Roll / bob and weave (pêndulo)
 - Contra ganchos.
 - Desça dobrando os **joelhos** (não a coluna), desenhe um "U" por baixo do golpe e suba do outro lado.
 - Guarda fechada durante todo o movimento.
 - Drill: corda esticada na altura do ombro, você desliza de um lado para o outro por baixo dela.
+
+![Bob and weave com corda](../img/bob-weave.svg)
 
 ### Pull back / lean back
 - Recue levemente o peso para a perna de trás, tirando a cabeça do alcance do jab. Só alguns centímetros. Avançado se exagerar.

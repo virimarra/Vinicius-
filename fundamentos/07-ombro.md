@@ -3,14 +3,18 @@
 ## Por que isso importa tanto
 Você é destro (base ortodoxa), então o **ombro esquerdo é o ombro do jab** — o golpe mais lançado do boxe. Em lutas amadoras de elite há cerca de 1,4 ações por segundo, e o jab é a maior parte delas. Na guarda, o ombro da frente também fica **elevado para proteger o queixo** o round inteiro. Um ombro "meio ruim" que não é cuidado agora vira lesão crônica depois. Ombro cuidado desde o início vira vantagem.
 
-## Antes de tudo: perguntas que preciso que você responda
-1. O que exatamente é "meio ruim"? Dor, estalo, sensação de "sair do lugar", fraqueza, rigidez?
-2. Em quais movimentos aparece? (braço acima da cabeça, para trás, dormindo de lado, flexão, jab?)
-3. Já teve luxação/subluxação ou trauma (queda, esporte)?
-4. Já foi avaliado por médico ou fisioterapeuta? Fez exame?
-5. Nota de dor no dia a dia, de 0 a 10?
+## Situação atual (relato do atleta, out/2026)
+- **Estalo** e **sensação de fraqueza**, sem dor e sem um movimento específico. Nunca foi avaliado.
 
-**Recomendação firme do coach:** faça **uma avaliação com fisioterapeuta esportivo ou ortopedista** antes da semana 5 (quando entram ganchos, uppercuts e mais volume). Se houver histórico de luxação ou sensação de instabilidade, faça antes de começar. Uma consulta custa menos que uma lesão no meio do caminho.
+**Leitura do coach:** estalo sem dor costuma ser benigno. A **fraqueza** é o que mais pesa, porque é o ombro do jab. Fraqueza aí significa jab caindo no 3º round e mais chance de lesão quando o volume subir. Por isso:
+1. o protocolo diário abaixo é obrigatório;
+2. **teste de força E × D** na semana 0 e nas semanas 4, 8 e 12 (ver abaixo);
+3. **avaliação com fisioterapeuta esportivo até a semana 9**, antes do primeiro sparring. Para quem vai competir em 6 meses, isso é pré-requisito, não sugestão. Se aparecer dor antes disso, a avaliação passa a ser imediata.
+
+### Teste de força do ombro (E × D)
+Deite de lado e faça rotação externa com o **mesmo halter leve** (1–3 kg) em cada braço. Conte as repetições perfeitas até a falha técnica, com cadência de 2 s para subir e 2 s para descer.
+- Diferença **> 15–20%** do esquerdo para o direito confirma o déficit. Mostre o resultado ao fisioterapeuta.
+- Registre a cada 4 semanas e veja se a diferença diminui.
 
 ## Regra de dor (monitoramento — use em todo treino)
 | Dor no ombro (0–10) | Ação |

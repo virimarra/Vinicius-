@@ -10,6 +10,8 @@
 | 2 — Arsenal | 5–8 | Ganchos, uppercuts, corpo, defesa básica | [fase-2.md](fase-2.md) |
 | 3 — Integração | 9–12 | Combinações + defesa + ângulos, ritmo de round | [fase-3.md](fase-3.md) |
 
+**Guia detalhado aula a aula:** [`aulas/`](aulas/README.md) · PDF: [`pdf/02-guia-aula-a-aula-iniciante.pdf`](../../pdf/02-guia-aula-a-aula-iniciante.pdf)
+
 Fim das semanas 4, 8 e 12: **avaliação filmada** → [`avaliacoes/avaliacao-iniciante.md`](../../avaliacoes/avaliacao-iniciante.md).
 Semana 12 é também de **consolidação** (volume um pouco menor, qualidade máxima).
 

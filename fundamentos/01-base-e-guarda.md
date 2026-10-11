@@ -11,6 +11,8 @@
 5. Peso: ~50/50 (estilo olímpico moderno) até 40/60 na perna de trás. Joelhos levemente flexionados — "molas carregadas", não agachado.
 6. Quadril e ombros levemente fechados (de lado, ~45°): menos alvo, mais alcance do jab.
 
+![Base ortodoxa: certo e errado](../img/base.svg)
+
 ## Guarda — checklist
 
 1. Mão de trás (direita) encostada na **bochecha/queixo**, cotovelo colado nas costelas.
